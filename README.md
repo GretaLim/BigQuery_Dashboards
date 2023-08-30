@@ -12,4 +12,4 @@
   2. My First Codes with Advanced SQL Techniques:
 
        [Customers report](https://github.com/GretaLim/sql-codes/blob/f1cb9337d98c60e6dd9930cfe274bfbdf503b4b3/Module_1_Sprint_4_Task-1.sql),
-       [Sales report](https://github.com/GretaLim/sql-codes/blob/f1cb9337d98c60e6dd9930cfe274bfbdf503b4b3/Module_1_Sprint_4_Task-2.sql)
+       [Sales report](https://github.com/GretaLim/sql-codes/blob/f1cb9337d98c60e6dd9930cfe274bfbdf503b4b3/Module_1_Sprint_4_Task-2.sql).
