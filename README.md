@@ -27,3 +27,8 @@
 
       SQL codes: [Customer by Region](https://github.com/GretaLim/sql-codes/blob/ec90b3c7a866fca10dcda0e12e324a7193125270/Module_2_Sprint_2_Customer_by_Region.sql), 
      [Customer by Years](https://github.com/GretaLim/sql-codes/blob/ec90b3c7a866fca10dcda0e12e324a7193125270/Module_2_Sprint_2_Customer_by_year.sql).
+
+  5. Retention, Cohorts & Churn.
+
+     SQL codes: [Retention Rate](https://github.com/GretaLim/sql-codes/blob/bcbe84bbdcacfe850ec8665054182ad211cd06ca/M3%20S1%20retention.sql),
+     [The Graph Data](https://github.com/GretaLim/sql-codes/blob/bcbe84bbdcacfe850ec8665054182ad211cd06ca/M3%20S1%20retention%20graph.sql).
