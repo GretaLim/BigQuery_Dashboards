@@ -17,7 +17,13 @@
   3. The AdventureWorks Sales Analysis Project:
      [The Looker Studio Dashboard](https://lookerstudio.google.com/reporting/519c4be3-078e-4ae2-a63a-240da90e364b).
 
-     SQL codess: [Customer Loyalty](https://github.com/GretaLim/sql-codes/blob/918aa7bbd2b27e3d216c23a7905beccd1d6961eb/Module_2_Sprint_1_Customer_Loyalty.sql),
+     SQL codes: [Customer Loyalty](https://github.com/GretaLim/sql-codes/blob/918aa7bbd2b27e3d216c23a7905beccd1d6961eb/Module_2_Sprint_1_Customer_Loyalty.sql),
      [Sales Reason](https://github.com/GretaLim/sql-codes/blob/918aa7bbd2b27e3d216c23a7905beccd1d6961eb/Module_2_Sprint_1_Sales_reason.sql),
      [Orders Details](https://github.com/GretaLim/sql-codes/blob/918aa7bbd2b27e3d216c23a7905beccd1d6961eb/Module_2_Sprint_1_order_details.sql),
      [Sales Headers](https://github.com/GretaLim/sql-codes/blob/918aa7bbd2b27e3d216c23a7905beccd1d6961eb/Module_2_Sprint_1_sales_location.sql).
+
+  4.  The AdventureWorks Offline Sales Analysis Project:
+      [The Looker Studio Dashboard](https://lookerstudio.google.com/reporting/fbb33516-06de-4a6c-8494-e7ae779984b9)
+
+      SQL codes: [Customer by Region](https://github.com/GretaLim/sql-codes/blob/ec90b3c7a866fca10dcda0e12e324a7193125270/Module_2_Sprint_2_Customer_by_Region.sql), 
+     [Customer by Years](https://github.com/GretaLim/sql-codes/blob/ec90b3c7a866fca10dcda0e12e324a7193125270/Module_2_Sprint_2_Customer_by_year.sql).
