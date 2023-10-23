@@ -1,5 +1,10 @@
 # BigQuery Codes, Looker-Studio Dashboards
 
+  ### Funnels & A/B Tests
+  
+  BigQuery codes: [Funnel Analysis](https://github.com/GretaLim/BigQuery_Dashboards/blob/7fd3b8a6f141a00dccd10ae2f368d6ad72ce1155/M3%20S2%20funnel%20analysis.sql),
+  [A/B Testing](https://github.com/GretaLim/BigQuery_Dashboards/blob/7fd3b8a6f141a00dccd10ae2f368d6ad72ce1155/M3%20S2%20A_B%20testing.sql).
+  
   ### Retention, Cohorts & Churn.
 
   BigQuery codes: [Retention Rate](https://github.com/GretaLim/sql-codes/blob/bcbe84bbdcacfe850ec8665054182ad211cd06ca/M3%20S1%20retention.sql),
