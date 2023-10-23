@@ -6,8 +6,8 @@
   BigQuery codes: 
   [Payments](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20payments.sql),
   [Location data cleanup](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20geolocation%20data%20clean.sql),
-  [Order, Customer, Review](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20order_customer_review.sql),
-  [Order, Product, Seller](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20order_product_seller.sql),
+  [Order-Customer-Review](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20order_customer_review.sql),
+  [Order-Product-Seller](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20order_product_seller.sql),
   [Correlations](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20correlations.sql).
 
   ### Marketing Analyst
