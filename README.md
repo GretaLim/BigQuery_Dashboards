@@ -1,5 +1,29 @@
 # BigQuery Codes, Looker-Studio Dashboards
 
+
+  ### Payments/Monetization Analyst
+
+  BigQuery codes: 
+  [Payments](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20payments.sql),
+  [Location data cleanup](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20geolocation%20data%20clean.sql),
+  [Order, Customer, Review](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20order_customer_review.sql),
+  [Order, Product, Seller](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20order_product_seller.sql),
+  [Correlations](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20correlations.sql).
+
+  ### Marketing Analyst
+
+  BigQuery codes: [Sessions & Marketing Analysis](https://github.com/GretaLim/BigQuery_Dashboards/blob/ea0b67feb1c188ecc92a863fec7ff1f7b2566a3d/M4%20S2%20Marketing%20Aalysis.sql).
+
+  ### Product Analyst
+
+  BigQuery codes: [Sessions with Purchases](https://github.com/GretaLim/BigQuery_Dashboards/blob/f8f62f951ea7eb5dc227dc4d859c77f7bceeec88/M4%20S1%20Protuct%20Analyst.sql).
+  
+  ### CLV, Customer Segmentation & RFM
+
+  BigQuery codes:
+  [CLV](https://github.com/GretaLim/BigQuery_Dashboards/blob/48f282f913b9fbcdb6c2c351ffaa6fdbc3b46d99/M3%20S3%20CLV.sql),
+  [RFM](https://github.com/GretaLim/BigQuery_Dashboards/blob/718440785941dfca4c790e3d4d3b61c104e621db/M3%20S3%20RFM.sql).
+
   ### Funnels & A/B Tests
   
   BigQuery codes: [Funnel Analysis](https://github.com/GretaLim/BigQuery_Dashboards/blob/7fd3b8a6f141a00dccd10ae2f368d6ad72ce1155/M3%20S2%20funnel%20analysis.sql),
