@@ -19,15 +19,15 @@
   BigQuery codes: [Sessions with Purchases](https://github.com/GretaLim/BigQuery_Dashboards/blob/f8f62f951ea7eb5dc227dc4d859c77f7bceeec88/M4%20S1%20Protuct%20Analyst.sql).
   
   ### CLV, Customer Segmentation & RFM
-  [CLV: The Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/1a5adeb9-6356-46a7-927e-272839d243bb/page/p_2pgp8hcm7c/edit)
+  [CLV: The Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/1a5adeb9-6356-46a7-927e-272839d243bb/page/p_2pgp8hcm7c/edit)<br>
+  [RFM: The Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b46196ad-408e-436d-ab79-e6027c595d50)
   
   BigQuery codes:
   [CLV](https://github.com/GretaLim/BigQuery_Dashboards/blob/48f282f913b9fbcdb6c2c351ffaa6fdbc3b46d99/M3%20S3%20CLV.sql),
   [RFM](https://github.com/GretaLim/BigQuery_Dashboards/blob/718440785941dfca4c790e3d4d3b61c104e621db/M3%20S3%20RFM.sql).
 
   ### Funnels & A/B Tests
-  [Funnel Analysis Overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTX44O-5TDDwNOG1IbBGcn0hS-VeI7J-tcHya0YHy-DjrX9IE6w_quwYALPGpo9zrm085FBm5bUQqsL/pubhtml?gid=409644485&single=true),
-  
+  [Funnel Analysis Overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTX44O-5TDDwNOG1IbBGcn0hS-VeI7J-tcHya0YHy-DjrX9IE6w_quwYALPGpo9zrm085FBm5bUQqsL/pubhtml?gid=409644485&single=true)<br>
   [A/B testing Review](https://docs.google.com/spreadsheets/d/e/2PACX-1vTX44O-5TDDwNOG1IbBGcn0hS-VeI7J-tcHya0YHy-DjrX9IE6w_quwYALPGpo9zrm085FBm5bUQqsL/pubhtml?gid=1791325190&single=true)
   
   BigQuery codes: [Funnel Analysis](https://github.com/GretaLim/BigQuery_Dashboards/blob/7fd3b8a6f141a00dccd10ae2f368d6ad72ce1155/M3%20S2%20funnel%20analysis.sql),
