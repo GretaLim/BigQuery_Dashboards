@@ -11,6 +11,7 @@
   [Correlations](https://github.com/GretaLim/BigQuery_Dashboards/blob/cf2620b33695e9397d3ea01e9468f14d729ce219/M4%20S3%20correlations.sql).
 
   ### Marketing Analyst
+  [The Tableau Public Dashboard](https://public.tableau.com/views/Test1_16938971121520/WebsiteUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
   BigQuery codes: [Sessions & Marketing Analysis](https://github.com/GretaLim/BigQuery_Dashboards/blob/ea0b67feb1c188ecc92a863fec7ff1f7b2566a3d/M4%20S2%20Marketing%20Aalysis.sql).
 
